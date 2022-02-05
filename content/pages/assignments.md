@@ -6,12 +6,81 @@ uid: fcb81a42-5863-4cfc-e936-6ec094540c2d
 
 Assignments are due at the indicated lecture.
 
-| LEC # | ASSIGNMENTS |
-| --- | --- |
-| 4 | Assignment 1 ([PDF]({{< baseurl >}}/resources/homework1)) |
-| 8 | Assignment 2 ([PDF]({{< baseurl >}}/resources/homework2)) |
-| 12 | Assignment 3 ([PDF]({{< baseurl >}}/resources/homework3)) |
-| 15 | Assignment 4 ([PDF]({{< baseurl >}}/resources/homework4)) |
-| 17 | Assignment 5 ([PDF]({{< baseurl >}}/resources/homework5)) |
-| 21 | Assignment 6 ([PDF]({{< baseurl >}}/resources/homework6)) |
-| 25 | Assignment 7 ([PDF]({{< baseurl >}}/resources/homework7))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 ([PDF]({{< baseurl >}}/resources/homework1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 ([PDF]({{< baseurl >}}/resources/homework2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 ([PDF]({{< baseurl >}}/resources/homework3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 ([PDF]({{< baseurl >}}/resources/homework4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 ([PDF]({{< baseurl >}}/resources/homework5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 6 ([PDF]({{< baseurl >}}/resources/homework6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 7 ([PDF]({{< baseurl >}}/resources/homework7))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
