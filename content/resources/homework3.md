@@ -4,6 +4,7 @@ description: 'Homework assignment with questions: Composite Operator Renormaliza
   The decay p- ?-???, The decays p- p0e-??e and K- p0p0e-??e.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/460f13de23a5ae849d41bb1474b8699f_homework3.pdf
 file_type: application/pdf
+parent_uid: fcb81a42-5863-4cfc-e936-6ec094540c2d
 resourcetype: Document
 title: homework3.pdf
 uid: 460f13de-23a5-ae84-9d41-bb1474b8699f

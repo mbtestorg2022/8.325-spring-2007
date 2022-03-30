@@ -4,6 +4,7 @@ description: 'Homework assignment with questions: Higgs Self-Coupling, The CKM m
   for n-families, and CP violation in B pp.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/0c0e1d2cddfa2a7ad273388fbeab9ba6_homework5.pdf
 file_type: application/pdf
+parent_uid: fcb81a42-5863-4cfc-e936-6ec094540c2d
 resourcetype: Document
 title: homework5.pdf
 uid: 0c0e1d2c-ddfa-2a7a-d273-388fbeab9ba6
